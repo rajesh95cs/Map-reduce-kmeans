@@ -11,3 +11,4 @@
 #phase1: generate initial centroids 
 #phase2: generate the new centroids using previous centroids
 #phase3: creating the cluster for final centroids
+#each phase has got its own mapper and reducer except phase2 has got a combiner as well
