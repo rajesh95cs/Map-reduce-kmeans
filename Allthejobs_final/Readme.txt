@@ -1,6 +1,6 @@
 #to run the code 
 
-#simply type bash kmeans.sh
+#type bash kmeans.sh in the console
 
 #results will be "Final cluster.txt" in the same directory
 
