@@ -6,3 +6,8 @@
 
 #for final centroids type : "more finalcentroids.txt" in the same directory
 
+#notes:
+#There are 3 phases in the code 
+#phase1: generate initial centroids 
+#phase2: generate the new centroids using previous centroids
+#phase3: creating the cluster for final centroids
